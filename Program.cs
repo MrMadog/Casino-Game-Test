@@ -47,6 +47,7 @@
 
                 usedCards.Clear();
                 usingCards.Clear();
+
             }
         }
     }
