@@ -1,0 +1,25 @@
+
+
+
+	Final Product ideas:
+		- BRING MONITOR AND SETUP FROM HOME FOR GAME
+		- begin with inputting bet amount (2,4,6,8,10...)
+		- Menu
+			~ visuals
+			~ choose suit
+			~ choose rank
+			~ show their bet card in corner while cards get flipped
+		- different sound effects for each amount of points (1, 3, 10)
+		- cards flip individually 
+		- "+ __ Points!" above card after flip, do for each
+		- Recording data
+			~ either use program to record data or use spreadsheets(record bet, and player winnings)
+			~ may be tough to use program to record data(end screen that shows all the stats after pressing button maybe)
+			~ maybe also collect data of how many people get points in each group(0-3, 4-8, 9, 10-15, 16)
+		- deck order: clubs, hearts, spades diamonds
+
+
+				// to do list:
+					- need separate lists for rank and suit(guessing separately at start)
+					- all working as of right now
+					- Console version almost done (base game layout), then make monogame version of it with visuals
