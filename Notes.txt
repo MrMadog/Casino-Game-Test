@@ -13,13 +13,7 @@
 		- cards flip individually 
 		- "+ __ Points!" above card after flip, do for each
 		- Recording data
-			~ either use program to record data or use spreadsheets(record bet, and player winnings)
+			~ either use program to record data or use spreadsheets(record bet, and player winnings, maybe points won aswell)
 			~ may be tough to use program to record data(end screen that shows all the stats after pressing button maybe)
-			~ maybe also collect data of how many people get points in each group(0-3, 4-8, 9, 10-15, 16)
-		- deck order: clubs, hearts, spades diamonds
-
-
-				// to do list:
-					- need separate lists for rank and suit(guessing separately at start)
-					- all working as of right now
-					- Console version almost done (base game layout), then make monogame version of it with visuals
+			~ maybe also collect data of how many people get points in each group(0 || 1 || 2,3 || 4 || 5,6 || 7,14 || 9,16 || 10,11 || 12,13)
+		- deck order: clubs, hearts, spades diamonds (for display in final visuals)
