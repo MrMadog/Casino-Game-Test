@@ -47,7 +47,7 @@
 
                 for (int i = 0; i < 3; i++)
                 {
-                    if (usingCards[i].Contains($" {rank.ToString()}"))
+                    if (usingCards[i].Contains($" {rank}"))
                     {
                         points += 3;
                     }
